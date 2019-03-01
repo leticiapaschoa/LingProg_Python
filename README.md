@@ -26,8 +26,6 @@ Concatenar strings (+), Multiplicar strings para formar uma string com uma sequ�
 Operadores Lógico:
 And, Or, Not
 
-Indentação: Python usa indentação como delimitação de bloco
-
 Comandos que aceitam blocos:
 if/elif/else
 for/else
@@ -36,6 +34,11 @@ def
 try/except /finally/else
 class
 with
+
+#Semântica:
+ - Uma variável não pode ser utilizada em uma expressão sem ter sido inicializada
+ - Python usa indentação como delimitação de bloco
+ - Dois-pontos marca o início do bloco
 
 #Links:
 https://aprendendo-computacao-com-python.readthedocs.io/en/latest/capitulo_02.html#operadores-e-operandos

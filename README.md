@@ -109,3 +109,31 @@ https://www.devmedia.com.br/python-tutorial/33274
               Exemplo:
               A L I C E
               0 1 2 3 4
+
+-Tipo Primitivo Composto:
+Tipos Primitivos Compostos:
+* Lista:
+	- Uma coleção ordenada de dados que podem ser modificados.
+	- Exem.: Lista de alunos por ordem alfabética.
+	
+	lista = ["alice", "leticia"]
+	
+	* Set:
+	- Uma coleção não ordenada de dados
+	- Exem.: Uma coleção de linguagens de programação
+	
+	set = {"python", "java", ".net"}
+
+* Dicionário:
+	- Uma coleção não ordenada de dados que podem modificados.
+	- Exem.: Armazenar um conjunto de configrações com chave e valor
+	
+	dicionario = 	{
+						"linguagem": "python",
+						"versao": "3.7"						
+					}
+
+* Tupla:
+	- Uma coleção ordenada de dados que não podem ser modificados
+	- Exem.: Armazenar um conjuno de versões compatíveis do python.
+	tupla = (2.7, 3.7)

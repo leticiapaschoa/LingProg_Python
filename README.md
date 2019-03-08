@@ -136,3 +136,6 @@ https://www.devmedia.com.br/python-tutorial/33274
 	- Uma coleção ordenada de dados que não podem ser modificados
 	- Exem.: Armazenar um conjuno de versões compatíveis do python.
 	tupla = (2.7, 3.7)
+
+#Conversão de valores: 
+https://onlinegdb.com/rk3-c_lPN

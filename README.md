@@ -137,5 +137,9 @@ https://www.devmedia.com.br/python-tutorial/33274
 	- Exem.: Armazenar um conjuno de versões compatíveis do python.
 	tupla = (2.7, 3.7)
 
+#Coleções de Valores:
+* Lista: https://onlinegdb.com/HJNUCdgPN
+
+
 #Conversão de valores: 
 https://onlinegdb.com/rk3-c_lPN

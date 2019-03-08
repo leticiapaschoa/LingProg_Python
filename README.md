@@ -117,7 +117,7 @@ https://www.devmedia.com.br/python-tutorial/33274
 	
 	lista = ["alice", "leticia"]
 	
-	* Set:
+* Set:
 	- Uma coleção não ordenada de dados
 	- Exem.: Uma coleção de linguagens de programação
 	

@@ -110,8 +110,7 @@ https://www.devmedia.com.br/python-tutorial/33274
               A L I C E
               0 1 2 3 4
 
--Tipo Primitivo Composto:
-Tipos Primitivos Compostos:
+-Tipos Primitivos Compostos:
 * Lista:
 	- Uma coleção ordenada de dados que podem ser modificados.
 	- Exem.: Lista de alunos por ordem alfabética.

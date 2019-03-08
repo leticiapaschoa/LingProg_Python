@@ -82,3 +82,30 @@ https://www.learnpython.org/pt/Operadores_b%C3%A1sicos
 # Link:
 http://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/
 https://www.devmedia.com.br/python-tutorial/33274
+
+
+# AULA 05 - Técnicas de Programação 01
+#Tipos de Dados e Variáveis:
+
+-Tipo Primitivo Simples:
+  - Números: 
+            Int -> não tem um valor máximo como limite;
+            Exemplo: x = 1
+                     y = 35656222554887711
+                     z = -3255522
+
+             Float -> números com uma ou mais decimais;
+             Exemplo: x = 1.10
+                      y = 1.0
+                      z = -35.59
+
+             Complex -> números com uma parte imaginária;
+             Exemplo: x = 3+5j
+                      y = 5j
+                      z = -5j
+
+  - Cadeia de caracteres: 
+              String -> cadeira de caracteres individuais em uma string podem ser acessados ​​especificando o nome da string seguido por um número entre colchetes ( []).
+              Exemplo:
+              A L I C E
+              0 1 2 3 4

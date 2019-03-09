@@ -142,7 +142,13 @@ https://www.devmedia.com.br/python-tutorial/33274
 * Set: https://onlinegdb.com/SJzxgYxPV
 * Lista: https://onlinegdb.com/B13dlFxPV
 * Tuplas: https://onlinegdb.com/SyfD-YlvN
-
+* Dicionario: https://onlinegdb.com/ryPEbFlwV
 
 #Conversão de valores: 
 https://onlinegdb.com/rk3-c_lPN
+
+#Fluxo de Controle:
+https://www.onlinegdb.com/BkUiGFxvE
+
+#Input - Output:
+https://onlinegdb.com/BymNVKlDE

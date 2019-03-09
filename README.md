@@ -141,6 +141,7 @@ https://www.devmedia.com.br/python-tutorial/33274
 #Coleções de Valores:
 * Set: https://onlinegdb.com/SJzxgYxPV
 * Lista: https://onlinegdb.com/B13dlFxPV
+* Tuplas: https://onlinegdb.com/SyfD-YlvN
 
 
 #Conversão de valores: 

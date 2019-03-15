@@ -159,3 +159,9 @@ https://onlinegdb.com/BymNVKlDE
 #Função - Array
 https://onlinegdb.com/ByK213tDE
 
+#Mecanismo para captura e controle de erros:
+* Definição:
+Pode-se utilizar as funções try/except, fazendo com que tente executar o código de try, caso algo dê errado, é executado a exceção, pode-se utilizar também a clausula finally, que sempre será executado, independente do resultado do try.
+
+* Exemplo:
+https://trinket.io/python/99ced731a5

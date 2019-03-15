@@ -152,3 +152,10 @@ https://www.onlinegdb.com/BkUiGFxvE
 
 #Input - Output:
 https://onlinegdb.com/BymNVKlDE
+
+# AULA 06 - Técnicas de Programação 02
+
+#Funções X Procedimentos
+#Função - Array
+https://onlinegdb.com/ByK213tDE
+

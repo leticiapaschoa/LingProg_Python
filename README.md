@@ -164,4 +164,4 @@ https://onlinegdb.com/ByK213tDE
 Pode-se utilizar as funções try/except, fazendo com que tente executar o código de try, caso algo dê errado, é executado a exceção, pode-se utilizar também a clausula finally, que sempre será executado, independente do resultado do try.
 
 * Exemplo:
-https://trinket.io/python/99ced731a5
+https://trinket.io/python/86b4d8a4dd

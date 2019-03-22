@@ -167,4 +167,8 @@ Pode-se utilizar as funções try/except, fazendo com que tente executar o códi
 https://trinket.io/python/86b4d8a4dd
 
 # AULA 07 - Escopo e Complexidade
-* Escopo de variáveis: https://onlinegdb.com/rykEqym_4
+#Escopo de variáveis:
+* Exemplo: https://onlinegdb.com/rykEqym_4
+
+#Gerenciamento de memória
+* Garbage Collector: Assim como outras linguagens, o Python disponibiliza um mecanismo de gerência de memória automático que é responsável pela desalocação da memória quando não é mais utilizada.

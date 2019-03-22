@@ -165,3 +165,6 @@ Pode-se utilizar as funções try/except, fazendo com que tente executar o códi
 
 * Exemplo:
 https://trinket.io/python/86b4d8a4dd
+
+# AULA 07 - Escopo e Complexidade
+* Escopo de variáveis: https://onlinegdb.com/rykEqym_4

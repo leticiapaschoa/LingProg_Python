@@ -170,5 +170,12 @@ https://trinket.io/python/86b4d8a4dd
 #Escopo de variáveis:
 * Exemplo: https://onlinegdb.com/rykEqym_4
 
-#Gerenciamento de memória
+#Gerenciamento de memória:
 * Garbage Collector: Assim como outras linguagens, o Python disponibiliza um mecanismo de gerência de memória automático que é responsável pela desalocação da memória quando não é mais utilizada.
+
+#Ferramenta de qualidade de código:
+* pylint: ferramenta de análise de código estático.
+  link: https://pypi.org/project/pylint/
+
+* Radon: ferramenta que calcula várias métricas de código.
+  link: https://radon.readthedocs.io/en/latest/index.html

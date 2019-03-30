@@ -5,7 +5,7 @@ list(calendar.day_name)
 dataUsuario = input("Digite a data:")
 
 try:
-  dataFormatada = moment.date(dataUsuario).format("DD/MM/YYYY")
+  dataFormatada = moment.date(dataUsuario, "DD/MM/YYYY")
 
   print("Formatando data:")
   print(moment.date(dataFormatada).format("DD-MM-YYYY"))  

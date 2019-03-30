@@ -179,3 +179,7 @@ https://trinket.io/python/86b4d8a4dd
 
 * Radon: ferramenta que calcula várias métricas de código.
   link: https://radon.readthedocs.io/en/latest/index.html
+  
+ # AULA 08 - Bibliotecas_Frameworks
+* Framework utilizando Django.
+  link: https://repl.it/@tmarangoni/testeframeworks
